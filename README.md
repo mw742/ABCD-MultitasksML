@@ -2,6 +2,9 @@
 
 **Multi-Task Machine Learning of Environmental and Genetic Risk Pathways to Substance Use Initiation in the ABCD Study**
 
+Mengman Wei*, Hanwen Zhang, and Qian Peng*
+
+
 ## Overview
 This repository contains code for performing multi-task machine learning (MTL) to predict substance use initiation (alcohol, nicotine, cannabis, and any substance) based on baseline environmental and genetic risk factors from the ABCD Study® (Adolescent Brain Cognitive Development). The goal is to model and predict the onset of substance use initiation using MTL to capture shared structures and domain-specific risks.
 
