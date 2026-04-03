@@ -40,9 +40,9 @@ dir.create(OUTDIR, showWarnings = FALSE, recursive = TRUE)
 ## ------------------------------------------------------------
 ## 1) Source of subject IDs
 ## ------------------------------------------------------------
-id_source <- file.path(WORKDIR, "../Env_surv/cov_timevarying_filtered.tsv")
+id_source <- file.path(WORKDIR, "/path/")
 if (!file.exists(id_source)) {
-  id_source2 <- file.path(WORKDIR, "cov_timevarying_filtered.tsv")
+  id_source2 <- file.path(WORKDIR, "covtimevarying.tsv")
   if (!file.exists(id_source2)) stop("Cannot find ID source. Tried: ", id_source, " and ", id_source2)
   id_source <- id_source2
 }
