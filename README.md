@@ -25,7 +25,6 @@ pytorch/2.5.0py311-cuda
 
 ## Citation
 
-If you use this repository in your research, please cite it as follows:
+If you use this work, please cite:
 
-Wei, M., Zhang, H., & Peng, Q. (2025). Multi-Task Machine Learning of Environmental and Genetic Risk Pathways to Substance Use Initiation in the ABCD Study. Retrieved from https://github.com/mw742/ABCD-MultitasksML
-
+Wei, M., Zhang, H., & Peng, Q. (2026). *Dynamic and Baseline Multi-Task Learning for Predicting Substance Use Initiation in the ABCD Study*. medRxiv. https://doi.org/10.64898/2026.04.10
