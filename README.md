@@ -2,7 +2,7 @@
 
 **Multi-Task Machine Learning of Environmental and Genetic Risk Pathways to Substance Use Initiation in the ABCD Study**
 
-Mengman Wei*, Hanwen Zhang, and Qian Peng*
+Mengman Wei, Hanwen Zhang, and Qian Peng
 
 
 ## Overview
@@ -27,4 +27,4 @@ pytorch/2.5.0py311-cuda
 
 If you use this work, please cite:
 
-Wei, M., Zhang, H., & Peng, Q. (2026). *Dynamic and Baseline Multi-Task Learning for Predicting Substance Use Initiation in the ABCD Study*. medRxiv. https://doi.org/10.64898/2026.04.10
+Wei, M., Zhang, H., & Peng, Q. (2026). *Dynamic and Baseline Multi-Task Learning for Predicting Substance Use Initiation in the ABCD Study*. medRxiv. doi: 10.64898/2026.04.10.26350655.
